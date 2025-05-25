@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 001,
+      "id": 101,
       "category": "First Category",
       "title": "First Event Title",
       "price": "FREE",
@@ -12,7 +12,7 @@
       "venue": "Venue One's Name"
     },
     {
-      "id": 002,
+      "id": 102,
       "category": "Second Category",
       "title": "Second Event Title",
       "price": "15.00",
@@ -24,7 +24,7 @@
       "venue": "Venue Two's Name"
     },
     {
-      "id": 003,
+      "id": 103,
       "category": "Third Category",
       "title": "Beach Cleanup",
       "price": "10.00",
@@ -36,7 +36,7 @@
       "venue": "Venue Three's Name"
     },
     {
-      "id": 004,
+      "id": 104,
       "category": "Fourth Category",
       "title": "Beach Cleanup",
       "price": "10.00",
@@ -48,7 +48,7 @@
       "venue": "Venue Four's Name"
     },
     {
-      "id": 005,
+      "id": 105,
       "category": "Fifth Category",
       "title": "Beach Cleanup",
       "price": "25.00",
