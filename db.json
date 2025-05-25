@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "id": 001,
+      "category": "First Category",
+      "title": "First Event Title",
+      "price": "FREE",
+      "description": "This is the first event's description.",
+      "date": "June 1, 2025",
+      "startTime": "12:00",
+      "organizer": "Organizer One's Name",
+      "venue": "Venue One's Name"
+    },
+    {
+      "id": 002,
+      "category": "Second Category",
+      "title": "Second Event Title",
+      "price": "15.00",
+      "description": "This is the second event's description.",
+      "location": "Flora City",
+      "date": "June 15, 2025",
+      "startTime": "10:00",
+      "organizer": "Organizer Two's Name",
+      "venue": "Venue Two's Name"
+    },
+    {
+      "id": 003,
+      "category": "Third Category",
+      "title": "Beach Cleanup",
+      "price": "10.00",
+      "description": "This is the third event's description.",
+      "location": "Playa Del Carmen",
+      "date": "July 4, 2025",
+      "startTime": "11:00",
+      "organizer": "Organizer Three's Name",
+      "venue": "Venue Three's Name"
+    },
+    {
+      "id": 004,
+      "category": "Fourth Category",
+      "title": "Beach Cleanup",
+      "price": "10.00",
+      "description": "This is the fourth event's description.",
+      "location": "Playa Del Carmen",
+      "date": "July 31, 2025",
+      "startTime": "9:00",
+      "organizer": "Organizer Four's Name",
+      "venue": "Venue Four's Name"
+    },
+    {
+      "id": 005,
+      "category": "Fifth Category",
+      "title": "Beach Cleanup",
+      "price": "25.00",
+      "description": "This is the fifth event's description.",
+      "location": "Playa Del Carmen",
+      "date": "August 24, 2025",
+      "time": "11:00",
+      "organizer": "Organizer Five's Name",
+      "venue": "Venue Five's Name"
+    }
+  ]
+}
