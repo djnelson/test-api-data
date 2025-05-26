@@ -2,58 +2,78 @@
   "events": [
     {
       "id": 101,
-      "category": "First Category",
+      "category": "Football",
       "title": "First Event Title",
       "price": "FREE",
       "description": "This is the first event's description.",
       "date": "June 1, 2025",
-      "startTime": "12:00",
-      "organizer": "Organizer One's Name",
-      "venue": "Venue One's Name"
+      "startTime": "12:00 PM",
+      "organizer": "The Green Bay Packers",
+      "venue": "Lambeau Field",
+      "streetAddress": "1265 Lombardi Avenue",
+      "city": "Green Bay",
+      "state": "WI",
+      "postalCode": "54304"
     },
     {
       "id": 102,
-      "category": "Second Category",
+      "category": "Basketball",
       "title": "Second Event Title",
-      "price": "15.00",
+      "price": "$15.00",
       "description": "This is the second event's description.",
       "date": "June 15, 2025",
-      "startTime": "10:00",
-      "organizer": "Organizer Two's Name",
-      "venue": "Venue Two's Name"
+      "startTime": "10:00 AM",
+      "organizer": "The Milwaukee Bucks",
+      "venue": "Fiserv Forum",
+      "streetAddress": "1111 Vel R Phillips Avenue",
+      "city": "Milwaukee",
+      "state": "WI",
+      "postalCode": "53203"
     },
     {
       "id": 103,
-      "category": "Third Category",
+      "category": "Baseball",
       "title": "Third Event Title",
-      "price": "10.00",
+      "price": "$10.00",
       "description": "This is the third event's description.",
       "date": "July 4, 2025",
-      "startTime": "11:00",
-      "organizer": "Organizer Three's Name",
-      "venue": "Venue Three's Name"
+      "startTime": "11:00 AM",
+      "organizer": "The Milwaukee Brewers",
+      "venue": "American Family Field",
+      "streetAddress": "1 Brewers Way",
+      "city": "Milwaukee",
+      "state": "WI",
+      "postalCode": "53214"
     },
     {
       "id": 104,
-      "category": "Fourth Category",
+      "category": "Baseball",
       "title": "Fourth Event Title",
-      "price": "10.00",
+      "price": "$10.00",
       "description": "This is the fourth event's description.",
       "date": "July 31, 2025",
-      "startTime": "9:00",
-      "organizer": "Organizer Four's Name",
-      "venue": "Venue Four's Name"
+      "startTime": "9:00 AM",
+      "organizer": "The Boston Redsox",
+      "venue": "Fenway Park",
+      "streetAddress": "4 Jersey Street",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02215"
     },
     {
       "id": 105,
-      "category": "Fifth Category",
+      "category": "Basketball",
       "title": "Fifth Event Title",
-      "price": "25.00",
+      "price": "$25.00",
       "description": "This is the fifth event's description.",
       "date": "August 24, 2025",
-      "time": "11:00",
-      "organizer": "Organizer Five's Name",
-      "venue": "Venue Five's Name"
+      "time": "11:00 AM",
+      "organizer": "The Boston Celtics",
+      "venue": "TD Garden",
+      "streetAddress": "100 Legends Way",
+      "city": "Boston",
+      "state": "MA",
+      "postalCode": "02114"
     }
   ]
 }
